@@ -2,6 +2,9 @@
 
 Website used to make myanimelist analyzed information available.
 
+Preview:
+![website preview](./doc/website.png)
+
 ## Project setup
 ```
 npm install
