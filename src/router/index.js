@@ -1,7 +1,7 @@
 import Vue from "vue";
-import Main from '../views/Analysis.vue'
-import About from "../views/About.vue";
-import NotFound from "../views/NotFound.vue";
+import Main from '../pages/Analysis.vue'
+import About from "../pages/About.vue";
+import NotFound from "../pages/NotFound.vue";
 
 import VueRouter from "vue-router";
 
