@@ -23,7 +23,7 @@ export default {
 }
 
 </script>
-<style scope>
+<style scoped>
     .frame{
         min-width: 100%;
         height: 600px;
