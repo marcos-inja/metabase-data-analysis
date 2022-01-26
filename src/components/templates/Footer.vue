@@ -6,10 +6,8 @@
 
 <style scoped>
     .bar_bottom {
-        /* border-top: 2px black solid; */
-        /* height: 60px; */
         -webkit-box-shadow: 0px -2px 7px -2px rgba(0,0,0,0.12); 
-box-shadow: 0px -2px 7px -2px rgba(0,0,0,0.12);
+        box-shadow: 0px -2px 7px -2px rgba(0,0,0,0.12);
         display: flex;
         justify-content: center;
         align-items: center;
