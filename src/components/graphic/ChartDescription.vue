@@ -33,11 +33,14 @@ export default {
             type: Object,
         }
     },
-
+    created() {
+        if(window.innerWidth < 620){
+            this.info.direita = true
+        }   
+    },
     computed:{
         grf(){ return this.info.src },
         class_css(){
-            
             if(this.info.direita){
                 return 'shadow-right'
             } else {

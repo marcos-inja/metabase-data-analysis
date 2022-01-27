@@ -12,16 +12,14 @@
           <router-link tag="li" to="/">Análises</router-link>
         </b-nav-item>
         <b-nav-item>
-          <router-link tag="li" to="/about">Sobre</router-link>
+          <router-link tag="li" to="/sobre">Sobre</router-link>
         </b-nav-item>
       </b-navbar-nav>
       
     </b-collapse>
   </b-navbar>
-
-
 </template>
 
-<style scope>
+<style scoped>
 
 </style>
