@@ -2,8 +2,11 @@
 
 Website used to make myanimelist analyzed information available.
 
+Crawler repository: [here](https://github.com/marcos-inja/data-visualization-crawler)
+
 Preview:
 ![website preview](./doc/website.png)
+
 
 ## Project setup
 ```
